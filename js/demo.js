@@ -27,7 +27,7 @@ $.contactButtons({
   effect  : 'slide-on-scroll',
   buttons : {
     'facebook':   { class: 'facebook', use: true, link: 'https://www.facebook.com/Fiesco-Labs-113254070391191', extras: 'target="_blank"' },
-    'linkedin':   { class: 'linkedin', use: true, link: 'https://www.linkedin.com/in/fiesco-labs-6653371aa/' },
+    'linkedin':   { class: 'linkedin', use: true, link: 'https://www.linkedin.com/company/fiesco-labs/' },
     'google':     { class: 'gplus',    use: true, link: 'https://plus.google.com/myidongoogle' },
     'mybutton':   { class: 'git',      use: true, link: 'http://github.com', icon: 'github', title: 'My title for the button' },
     'phone':      { class: 'phone separated',    use: true, link: '+94715507846' },

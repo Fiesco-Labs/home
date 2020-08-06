@@ -499,10 +499,14 @@ section.spacer.bg2 {
 }
 
 section.spacer.bg3 {
-	background: url(../img/bg/bg-3.jpg) 50% 0 no-repeat fixed;
+	background: url(../img/bg/bg-3.jpg) no-repeat center center fixed;
 	width:100%;
 	height:auto;
-	margin:0;	
+	margin:0;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover; 	
 }
 
 section.spacer blockquote.large:before {
